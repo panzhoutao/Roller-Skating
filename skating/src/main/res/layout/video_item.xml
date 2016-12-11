@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@color/__picker_black_40">
+        <io.vov.vitamio.widget.VideoView
+            android:id="@+id/video_item_video"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+        <ImageView
+            android:id="@+id/video_item_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+        <ImageView
+            android:id="@+id/video_item_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icn_play_big"
+            android:layout_centerInParent="true"
+            android:scaleType="center"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <com.pan.skating.view.CircleImageView
+            android:id="@+id/video_item_head"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/myhand"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"/>
+        <TextView
+            android:id="@+id/video_item_publishuser"
+            android:layout_toRightOf="@id/video_item_head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布者"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"/>
+        <TextView
+            android:id="@+id/video_item_PV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignBottom="@id/video_item_publishuser"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="播放："
+            android:textSize="15sp"
+            android:layout_toLeftOf="@id/video_item_PV"
+            android:layout_alignBottom="@id/video_item_publishuser"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

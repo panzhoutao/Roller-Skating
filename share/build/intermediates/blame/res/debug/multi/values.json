@@ -1,0 +1,1776 @@
+[
+    {
+        "outputFile": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 81,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 81,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 46,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 46,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 46,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 46,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 46,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 46,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 46,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 46,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 49,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 49,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 57,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 45,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3870,
+                        "endColumn": 45,
+                        "endOffset": 3911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 86,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 86,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 48,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3721,
+                        "endColumn": 48,
+                        "endOffset": 3765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 92,
+                    "endOffset": 785
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 92,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 790,
+                    "endColumn": 45,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 3167,
+                        "endColumn": 42,
+                        "endOffset": 3208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 42,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2294,
+                        "endColumn": 39,
+                        "endOffset": 2332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 48,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2748,
+                        "endColumn": 45,
+                        "endOffset": 2792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 41,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 2052,
+                        "endColumn": 38,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 46,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2379,
+                        "endColumn": 43,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 50,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1872,
+                        "endColumn": 47,
+                        "endOffset": 1918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 69,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3650,
+                        "endColumn": 69,
+                        "endOffset": 3715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 108,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1477,
+                        "endColumn": 108,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 46,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2658,
+                        "endColumn": 43,
+                        "endOffset": 2700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 54,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2517,
+                        "endColumn": 51,
+                        "endOffset": 2567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 102,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 102,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 51,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2467,
+                        "endColumn": 48,
+                        "endOffset": 2514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 52,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2839,
+                        "endColumn": 49,
+                        "endOffset": 2887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 103,
+                    "endOffset": 1656
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 103,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1661,
+                    "endColumn": 83,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 3565,
+                        "endColumn": 80,
+                        "endOffset": 3644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1745,
+                    "endLine": 94,
+                    "endColumn": 9,
+                    "endOffset": 3625
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_instapaper_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3630,
+                    "endColumn": 54,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3305,
+                        "endColumn": 51,
+                        "endOffset": 3355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 52,
+                    "endOffset": 3733
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3358,
+                        "endColumn": 49,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3738,
+                    "endColumn": 52,
+                    "endOffset": 3786
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 3458,
+                        "endColumn": 49,
+                        "endOffset": 3506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3791,
+                    "endColumn": 57,
+                    "endOffset": 3844
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3509,
+                        "endColumn": 54,
+                        "endOffset": 3562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3849,
+                    "endColumn": 50,
+                    "endOffset": 3895
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3409,
+                        "endColumn": 47,
+                        "endOffset": 3455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3900,
+                    "endColumn": 43,
+                    "endOffset": 3939
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 2010,
+                        "endColumn": 40,
+                        "endOffset": 2049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3944,
+                    "endColumn": 54,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3073,
+                        "endColumn": 51,
+                        "endOffset": 3123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3999,
+                    "endColumn": 104,
+                    "endOffset": 4099
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 104,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 52,
+                    "endOffset": 4152
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 3022,
+                        "endColumn": 49,
+                        "endOffset": 3070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4157,
+                    "endColumn": 101,
+                    "endOffset": 4254
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 101,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4259,
+                    "endColumn": 43,
+                    "endOffset": 4298
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3771,
+                        "endColumn": 43,
+                        "endOffset": 3810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4303,
+                    "endColumn": 85,
+                    "endOffset": 4384
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1302,
+                        "endColumn": 85,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4389,
+                    "endColumn": 52,
+                    "endOffset": 4437
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3816,
+                        "endColumn": 52,
+                        "endOffset": 3864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4442,
+                    "endColumn": 42,
+                    "endOffset": 4480
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3126,
+                        "endColumn": 39,
+                        "endOffset": 3164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4485,
+                    "endColumn": 86,
+                    "endOffset": 4567
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 86,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4572,
+                    "endColumn": 44,
+                    "endOffset": 4612
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2424,
+                        "endColumn": 41,
+                        "endOffset": 2464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4617,
+                    "endColumn": 43,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2980,
+                        "endColumn": 40,
+                        "endOffset": 3019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 59,
+                    "endOffset": 4716
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 4078,
+                        "endColumn": 56,
+                        "endOffset": 4133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4721,
+                    "endColumn": 54,
+                    "endOffset": 4771
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2241,
+                        "endColumn": 51,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4776,
+                    "endColumn": 46,
+                    "endOffset": 4818
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 46,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4823,
+                    "endColumn": 47,
+                    "endOffset": 4866
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 47,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4871,
+                    "endColumn": 49,
+                    "endOffset": 4916
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 49,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4921,
+                    "endColumn": 53,
+                    "endOffset": 4970
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 53,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4975,
+                    "endColumn": 57,
+                    "endOffset": 5028
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 57,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5033,
+                    "endColumn": 52,
+                    "endOffset": 5081
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 654,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5086,
+                    "endColumn": 60,
+                    "endOffset": 5142
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 595,
+                        "endColumn": 57,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5147,
+                    "endColumn": 45,
+                    "endOffset": 5188
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5193,
+                    "endColumn": 57,
+                    "endOffset": 5246
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 57,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5251,
+                    "endColumn": 57,
+                    "endOffset": 5304
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 57,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5309,
+                    "endColumn": 54,
+                    "endOffset": 5359
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 54,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5364,
+                    "endColumn": 56,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 56,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endColumn": 52,
+                    "endOffset": 5469
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2607,
+                        "endColumn": 49,
+                        "endOffset": 2655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5474,
+                    "endColumn": 103,
+                    "endOffset": 5573
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 103,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5578,
+                    "endColumn": 46,
+                    "endOffset": 5620
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 3260,
+                        "endColumn": 43,
+                        "endOffset": 3302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5625,
+                    "endColumn": 38,
+                    "endOffset": 5659
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2570,
+                        "endColumn": 35,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5664,
+                    "endColumn": 83,
+                    "endOffset": 5743
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 83,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5748,
+                    "endColumn": 43,
+                    "endOffset": 5787
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1685,
+                        "endColumn": 40,
+                        "endOffset": 1724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5792,
+                    "endColumn": 43,
+                    "endOffset": 5831
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1968,
+                        "endColumn": 40,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5836,
+                    "endColumn": 60,
+                    "endOffset": 5892
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3916,
+                        "endColumn": 57,
+                        "endOffset": 3972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5897,
+                    "endColumn": 55,
+                    "endOffset": 5948
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 4136,
+                        "endColumn": 52,
+                        "endOffset": 4187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5953,
+                    "endColumn": 50,
+                    "endOffset": 5999
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 4029,
+                        "endColumn": 47,
+                        "endOffset": 4075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6004,
+                    "endColumn": 55,
+                    "endOffset": 6055
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 3975,
+                        "endColumn": 52,
+                        "endOffset": 4026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6060,
+                    "endColumn": 63,
+                    "endOffset": 6119
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4190,
+                        "endColumn": 60,
+                        "endOffset": 4249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6124,
+                    "endColumn": 48,
+                    "endOffset": 6168
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 2092,
+                        "endColumn": 45,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6173,
+                    "endColumn": 47,
+                    "endOffset": 6216
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1590,
+                        "endColumn": 44,
+                        "endOffset": 1633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6221,
+                    "endColumn": 51,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 2139,
+                        "endColumn": 48,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 53,
+                    "endOffset": 6322
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 2189,
+                        "endColumn": 50,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6327,
+                    "endColumn": 50,
+                    "endOffset": 6373
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1636,
+                        "endColumn": 47,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6378,
+                    "endColumn": 46,
+                    "endOffset": 6420
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2703,
+                        "endColumn": 43,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6425,
+                    "endColumn": 48,
+                    "endOffset": 6469
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1921,
+                        "endColumn": 45,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6474,
+                    "endColumn": 59,
+                    "endOffset": 6529
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 4252,
+                        "endColumn": 56,
+                        "endOffset": 4307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6534,
+                    "endColumn": 45,
+                    "endOffset": 6575
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2795,
+                        "endColumn": 42,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6580,
+                    "endColumn": 59,
+                    "endOffset": 6635
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 59,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6640,
+                    "endColumn": 44,
+                    "endOffset": 6680
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1727,
+                        "endColumn": 41,
+                        "endOffset": 1767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6685,
+                    "endColumn": 86,
+                    "endOffset": 6767
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 86,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6772,
+                    "endColumn": 52,
+                    "endOffset": 6820
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1821,
+                        "endColumn": 49,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6825,
+                    "endColumn": 52,
+                    "endOffset": 6873
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1770,
+                        "endColumn": 49,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6878,
+                    "endColumn": 59,
+                    "endOffset": 6933
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6938,
+                    "endColumn": 58,
+                    "endOffset": 6992
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 58,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6997,
+                    "endColumn": 50,
+                    "endOffset": 7043
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 3211,
+                        "endColumn": 47,
+                        "endOffset": 3257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7048,
+                    "endColumn": 98,
+                    "endOffset": 7142
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 98,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7147,
+                    "endColumn": 41,
+                    "endOffset": 7184
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2890,
+                        "endColumn": 38,
+                        "endOffset": 2927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7189,
+                    "endColumn": 83,
+                    "endOffset": 7268
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 83,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7273,
+                    "endColumn": 51,
+                    "endOffset": 7320
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2930,
+                        "endColumn": 48,
+                        "endOffset": 2977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7325,
+                    "endColumn": 45,
+                    "endOffset": 7366
+                },
+                "from": {
+                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2335,
+                        "endColumn": 42,
+                        "endOffset": 2376
+                    }
+                }
+            }
+        ]
+    }
+]

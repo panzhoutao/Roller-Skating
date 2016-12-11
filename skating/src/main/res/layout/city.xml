@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_150"
+        android:background="@color/pickerview_bg_topbar" >
+
+        <Button
+            android:id="@+id/cityr_complete"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="@dimen/dimen_30w"
+            android:paddingRight="@dimen/dimen_30w"
+            android:text="@string/complete"
+            android:textColor="@drawable/selector_pickerview_btn"
+            android:textSize="@dimen/dimen_90"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/timepicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="#E9E9E9"
+        android:orientation="horizontal"
+        >
+
+        <com.pan.skating.citymodel.WheelView
+           android:id="@+id/id_province"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1" />
+
+        <com.pan.skating.citymodel.WheelView
+           android:id="@+id/id_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1" />
+
+        <com.pan.skating.citymodel.WheelView
+            android:id="@+id/id_district"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1" />
+    </LinearLayout>
+
+</LinearLayout>
