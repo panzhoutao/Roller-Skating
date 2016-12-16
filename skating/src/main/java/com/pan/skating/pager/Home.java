@@ -3,11 +3,14 @@ package com.pan.skating.pager;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
+
 import com.pan.skating.R;
 import com.pan.skating.home.ActAdapter;
 import com.pan.skating.base.BaseApplication;
@@ -20,14 +23,19 @@ import com.pan.skating.utils.ToastUtil;
 import com.pan.skating.view.PullToRefreshView;
 import java.util.List;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+
 public class Home extends Fragment implements ActInterface,PullToRefreshView.OnHeaderRefreshListener,PullToRefreshView.OnFooterRefreshListener{
     private View view;
     private HomeTask task;
-    private ListView listView;
+    @BindView(R.id.fm_list)
+    ListView listView;
     private Boolean isFirst=true;
     List<ActBean> data;
     private ActAdapter adapter;
-    private PullToRefreshView mPullToRefreshView;
+    @BindView(R.id.main_pull_refresh_view)
+    PullToRefreshView mPullToRefreshView;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -37,9 +45,8 @@ public class Home extends Fragment implements ActInterface,PullToRefreshView.OnH
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         view=inflater.inflate(R.layout.fragment_home, container, false);
-        listView= (ListView) view.findViewById(R.id.fm_list);
+        ButterKnife.bind(this,view);
         //上下拉刷新
-        mPullToRefreshView = (PullToRefreshView)view.findViewById(R.id.main_pull_refresh_view);
         mPullToRefreshView.setOnHeaderRefreshListener(this);
         mPullToRefreshView.setOnFooterRefreshListener(this);
         getData();//获取数据
@@ -79,10 +86,14 @@ public class Home extends Fragment implements ActInterface,PullToRefreshView.OnH
 
     @Override
     public void callBackAct(List<ActBean> list) {
+
         if(list!=null && BaseApplication.app.getPoint()!=null){
+
             data=list;
             adapter=new ActAdapter(getActivity(),list);
             listView.setAdapter(adapter);
+        }else if(list!=null && BaseApplication.app.getPoint()==null){
+            Toast.makeText(getActivity(),"没有定位权限",Toast.LENGTH_SHORT).show();
         }
     }
 

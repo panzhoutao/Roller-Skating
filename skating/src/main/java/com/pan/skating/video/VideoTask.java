@@ -24,7 +24,7 @@ public class VideoTask extends AsyncTask {
     private VideoInterface videoInterface;
     private ProgressDialog progressDialog;
 
-    public VideoTask(FragmentActivity context, VideoInterface videoInterface) {
+    public VideoTask(Context context, VideoInterface videoInterface) {
         this.context = context;
         this.videoInterface=videoInterface;
     }

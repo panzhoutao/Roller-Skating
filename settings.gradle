@@ -1,1 +1,1 @@
-include ':skating', ':PhotoPicker', ':share', ':vitamio'
+include ':skating', ':PhotoPicker', ':share', ':vitamio', ':ijkplayerlibrary', ':superplayerlibrary'

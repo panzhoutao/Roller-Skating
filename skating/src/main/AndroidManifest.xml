@@ -127,6 +127,9 @@
         <activity android:name=".zhibo.ZhiBoActivity" />
         <activity android:name=".tieba.TiebaActivity" />
         <activity android:name=".publish.PublishTie"></activity>
+        <activity android:name=".pager.Video2"
+            android:configChanges="keyboardHidden|orientation|screenSize|layoutDirection"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

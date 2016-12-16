@@ -24,7 +24,7 @@ import com.pan.skating.bean.PointBean;
 /**
  * Created by 潘洲涛 on 2016/9/19.
  */
-public class MyPointUtils extends Fragment{
+public class MyPointUtils extends Activity{
 
     private static String PERMISSIONS_CONTACT=Manifest.permission.ACCESS_COARSE_LOCATION;
     private static Context contet;
@@ -111,6 +111,7 @@ public class MyPointUtils extends Fragment{
     }
 
     private static void requestContactsPermissions() {
+        Log.i("aa","进入");
         // BEGIN_INCLUDE(contacts_permission_request)
         if (ActivityCompat.shouldShowRequestPermissionRationale((Activity) contet,
                 Manifest.permission.ACCESS_COARSE_LOCATION)
@@ -141,7 +142,9 @@ public class MyPointUtils extends Fragment{
                     .show();
         } else {
             // Contact permissions have not been granted yet. Request them directly.
-            ActivityCompat.requestPermissions((Activity) contet, new String[]{PERMISSIONS_CONTACT}, REQUEST_CONTACTS);
+
+            ActivityCompat.requestPermissions((Activity) contet, new String[]{Manifest.permission.ACCESS_FINE_LOCATION}, REQUEST_CONTACTS);
+
 
         }
         // END_INCLUDE(contacts_permission_request)
@@ -152,8 +155,8 @@ public class MyPointUtils extends Fragment{
         Log.i("aa","aaa");
         if (requestCode==REQUEST_CONTACTS){
             if (PermissionUtil.verifyPermissions(grantResults)) {
-                init(contet);
 
+                init(contet);
             } else {
 
             }

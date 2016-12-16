@@ -36,12 +36,12 @@
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
     },
     {
-        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
-        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
-    },
-    {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
@@ -80,16 +80,16 @@
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
     },
     {
-        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
-        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
-    },
-    {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
@@ -104,12 +104,12 @@
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
     },
     {
-        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
@@ -132,12 +132,12 @@
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
     },
     {
-        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
-        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
-    },
-    {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
@@ -148,12 +148,12 @@
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
     },
     {
-        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
-        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
-    },
-    {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
         "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
     },
     {
         "merged": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",

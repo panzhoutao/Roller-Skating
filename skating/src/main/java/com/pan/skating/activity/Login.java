@@ -14,6 +14,9 @@ import com.pan.skating.R;
 import com.pan.skating.base.BaseApplication;
 import com.pan.skating.bean.User;
 import java.util.List;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.exception.BmobException;
@@ -22,23 +25,25 @@ import cn.bmob.v3.listener.LogInListener;
 
 public class Login extends AppCompatActivity implements View.OnClickListener{
 
-    private ImageView cancel;
-    private TextView register;
-    private EditText phone,password;
-    private Button login;
+    @BindView(R.id.act_login_cancel)
+    ImageView cancel;
+    @BindView(R.id.act_login_register)
+    TextView register;
+    @BindView(R.id.act_login_phone)
+    EditText phone;
+    @BindView(R.id.act_login_password)
+    EditText password;
+    @BindView(R.id.act_login_login)
+    Button login;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
         setContentView(R.layout.activity_login);
-        cancel= (ImageView) findViewById(R.id.act_login_cancel);
+        ButterKnife.bind(this);
         cancel.setOnClickListener(this);
-        register= (TextView) findViewById(R.id.act_login_register);
         register.setOnClickListener(this);
-        phone= (EditText) findViewById(R.id.act_login_phone);
-        password= (EditText) findViewById(R.id.act_login_password);
-        login= (Button) findViewById(R.id.act_login_login);
         login.setOnClickListener(this);
     }
 

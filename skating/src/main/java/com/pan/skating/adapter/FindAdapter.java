@@ -17,6 +17,7 @@ import com.lidroid.xutils.view.annotation.ViewInject;
 import com.pan.skating.R;
 import com.pan.skating.bean.FindBean;
 import com.pan.skating.pager.Find;
+import com.pan.skating.pager.Video2;
 import com.pan.skating.tieba.TiebaActivity;
 import com.pan.skating.zhibo.ZhiBoActivity;
 
@@ -50,7 +51,8 @@ public class FindAdapter extends RecyclerView.Adapter{
                 if(list.get(position).getName().equals("贴吧")){
                     context.startActivity(new Intent(context, TiebaActivity.class));
                 }else{
-                    Toast.makeText(context,"直播",Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(context,"直播",Toast.LENGTH_SHORT).show();
+                    context.startActivity(new Intent(context, Video2.class));
                 }
             }
         });

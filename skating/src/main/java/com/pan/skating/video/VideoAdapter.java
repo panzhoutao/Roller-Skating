@@ -21,6 +21,8 @@ import com.pan.skating.utils.ImageLoaderUtils;
 
 import java.util.List;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import io.vov.vitamio.LibsChecker;
 import io.vov.vitamio.MediaPlayer;
 
@@ -120,21 +122,22 @@ public class VideoAdapter extends BaseAdapter {
     }
 
     class ViewHolder{
-        @ViewInject(R.id.video_item_video)
-        private VideoView videoView;
-        @ViewInject(R.id.video_item_head)
-        private ImageView head;
-        @ViewInject(R.id.video_item_publishuser)
-        private TextView user;
-        @ViewInject(R.id.video_item_PV)
-        private TextView pv;
-        @ViewInject(R.id.video_item_play)
-        private ImageView play;
-        @ViewInject(R.id.video_item_pic)
-        private ImageView pic;
+        @BindView(R.id.video_item_video)
+       VideoView videoView;
+        @BindView(R.id.video_item_head)
+        ImageView head;
+        @BindView(R.id.video_item_publishuser)
+       TextView user;
+        @BindView(R.id.video_item_PV)
+        TextView pv;
+        @BindView(R.id.video_item_play)
+       ImageView play;
+        @BindView(R.id.video_item_pic)
+       ImageView pic;
 
         ViewHolder(View view) {
-            ViewUtils.inject(this,view);
+            //ViewUtils.inject(this,view);
+            ButterKnife.bind(this,view);
         }
     }
 

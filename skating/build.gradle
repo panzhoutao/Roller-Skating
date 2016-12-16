@@ -38,13 +38,13 @@ repositories {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    testCompile 'junit:junit:4.12'
+    //testCompile 'junit:junit:4.12'
     compile name: 'SMSSDK-2.1.1', ext: 'aar'
-    compile 'com.android.support:appcompat-v7:24.0.0'
+    //compile 'com.android.support:appcompat-v7:24.0.0'
     compile 'cn.bmob.android:bmob-sdk:3.4.7-aar'
     compile 'com.android.support:support-v4:24.0.0'
     compile files('libs/universal-image-loader-1.9.2.jar')
-    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.2.0'
     compile files('libs/xUtils-2.6.14.jar')
     compile project(path: ':PhotoPicker')
     compile files('libs/BaiduLBS_Android.jar')
@@ -52,4 +52,8 @@ dependencies {
     compile project(path: ':vitamio')
     compile files('libs/javacv.jar')
     compile project(':vitamio')
+    compile project(':superplayerlibrary')
+    compile files('libs/classes.jar')
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
 }

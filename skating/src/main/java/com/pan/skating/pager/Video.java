@@ -15,11 +15,17 @@ import com.pan.skating.video.VideoFrameImageLoader;
 import com.pan.skating.video.VideoInterface;
 import com.pan.skating.video.VideoTask;
 import com.pan.skating.view.PullToRefreshView;
+import com.superplayer.library.SuperPlayer;
+import com.superplayer.library.SuperPlayerManage;
+
 import java.util.List;
+
+import butterknife.BindView;
 
 public class Video extends Fragment implements VideoInterface,PullToRefreshView.OnHeaderRefreshListener,PullToRefreshView.OnFooterRefreshListener{
 
     private View view;
+
     private ListView listView;
     private PullToRefreshView mPullToRefreshView;
     private boolean isFirst=true;
@@ -27,6 +33,7 @@ public class Video extends Fragment implements VideoInterface,PullToRefreshView.
     List<VideoBean> data;
     private VideoAdapter adapter;
     private VideoFrameImageLoader mVideoFrameImageLoader;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -44,6 +51,7 @@ public class Video extends Fragment implements VideoInterface,PullToRefreshView.
         mPullToRefreshView.setOnFooterRefreshListener(this);
         return view;
     }
+
 
     @Override
     public void setUserVisibleHint(boolean isVisibleToUser) {

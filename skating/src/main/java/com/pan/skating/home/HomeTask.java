@@ -3,6 +3,7 @@ package com.pan.skating.home;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
+import android.util.Log;
 import android.view.View;
 import com.pan.skating.base.BaseApplication;
 import com.pan.skating.bean.ActBean;
@@ -72,6 +73,7 @@ public class HomeTask extends AsyncTask<String,Void,ActBean>{
         query.findObjects(context, new FindListener<ActBean>() {
             @Override
             public void onSuccess(final List<ActBean> list) {
+
                 if(actInterface!=null){
                     actInterface.callBackAct(list);
                 }

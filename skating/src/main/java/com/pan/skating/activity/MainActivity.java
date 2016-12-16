@@ -24,7 +24,8 @@ import com.pan.skating.R;
 import com.pan.skating.pager.Find;
 import com.pan.skating.pager.Home;
 import com.pan.skating.pager.My;
-import com.pan.skating.pager.Video;
+
+import com.pan.skating.pager.Video2;
 import com.pan.skating.publish.PublishAct;
 import com.pan.skating.recorder.FFmpegRecorderActivity;
 import com.pan.skating.utils.NetUtil;
@@ -32,6 +33,7 @@ import com.pan.skating.utils.ToastUtil;
 
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class MainActivity extends FragmentActivity implements View.OnClickListener{
 
@@ -67,7 +69,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         //将页面添加到viewpager
         ls= new ArrayList<Fragment>();
         ls.add(new Home());
-        ls.add(new Video());
+        //ls.add(new Video());
         ls.add(new Find());
         ls.add(new My());
         vp.setOffscreenPageLimit(0);
@@ -94,6 +96,8 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
             lins[i].setOnClickListener(this);
         }
         //Viewpager监听
+        MyViewPager mvp = new MyViewPager(this);
+
         vp= (ViewPager) findViewById(R.id.act_main_vp);
         vp.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
@@ -101,7 +105,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
             }
             @Override
             public void onPageSelected(int i) {
-                changeView(i);
+                //changeView(i);
             }
             @Override
             public void onPageScrollStateChanged(int i) {
@@ -149,22 +153,23 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                 }
                 break;
             case R.id.lin2:
-                changeView(1);
-                vp.setCurrentItem(1);
+                //changeView(1);
+                //vp.setCurrentItem(1);
+                startActivity(new Intent(this,Video2.class));
                 if(clicked==true){
                     clicka();
                 }
                 break;
             case R.id.lin3:
                 changeView(2);
-                vp.setCurrentItem(2);
+                vp.setCurrentItem(1);
                 if(clicked==true){
                     clicka();
                 }
                 break;
             case R.id.lin4:
                 changeView(3);
-                vp.setCurrentItem(3);
+                vp.setCurrentItem(2);
                 if(clicked==true){
                     clicka();
                 }
@@ -266,3 +271,5 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         }
     }
 }
+
+
