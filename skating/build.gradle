@@ -7,12 +7,19 @@ android {
     defaultConfig {
         applicationId "com.pan.skating"
         minSdkVersion 19
-        targetSdkVersion 24
+        targetSdkVersion 22
         versionCode 1
         versionName "1.1"
         multiDexEnabled true
         useLibrary 'org.apache.http.legacy'
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+
     }
+
+
     buildTypes {
         release {
             minifyEnabled false
@@ -49,9 +56,7 @@ dependencies {
     compile project(path: ':PhotoPicker')
     compile files('libs/BaiduLBS_Android.jar')
     compile files('libs/MobCommons-2016.0830.1940.jar')
-    compile project(path: ':vitamio')
     compile files('libs/javacv.jar')
-    compile project(':vitamio')
     compile project(':superplayerlibrary')
     compile files('libs/classes.jar')
     compile 'com.jakewharton:butterknife:8.4.0'

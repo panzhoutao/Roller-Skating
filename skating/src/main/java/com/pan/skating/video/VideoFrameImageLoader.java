@@ -15,7 +15,6 @@ import android.widget.AbsListView;
 import android.widget.ImageView;
 
 import com.pan.skating.bean.VideoBean;
-import com.pan.skating.pager.Video;
 
 import java.io.IOException;
 import java.util.HashMap;

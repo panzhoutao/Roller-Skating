@@ -28,7 +28,6 @@ import com.pan.skating.utils.ConnectionNetUtils;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.GetListener;
-import io.vov.vitamio.utils.Log;
 
 public class Welcome extends AppCompatActivity implements BaseInterface{
     private LinearLayout ly;
