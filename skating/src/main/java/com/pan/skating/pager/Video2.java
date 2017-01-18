@@ -297,10 +297,9 @@ public class Video2 extends Activity implements VideoInterface,PullToRefreshView
         if(list!=null){
             data=list;
             mVideoFrameImageLoader = new VideoFrameImageLoader(this, superRecyclerView,list);
-//            adapter=new VideoAdapter(this,list,mVideoFrameImageLoader);
-//            listView.setAdapter(adapter);
 
-            mAdapter = new SuperVideoAdapter(this,data);
+            VideoFrameImageLoader mVideoFrameImageLoader = new VideoFrameImageLoader(this, superRecyclerView, list);
+            mAdapter = new SuperVideoAdapter(this,data,mVideoFrameImageLoader);
             superRecyclerView.setAdapter(mAdapter);
 
             initAdapter();

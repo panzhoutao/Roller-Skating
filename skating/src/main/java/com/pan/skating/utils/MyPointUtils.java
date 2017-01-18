@@ -111,7 +111,6 @@ public class MyPointUtils extends Activity{
     }
 
     private static void requestContactsPermissions() {
-        Log.i("aa","进入");
         // BEGIN_INCLUDE(contacts_permission_request)
         if (ActivityCompat.shouldShowRequestPermissionRationale((Activity) contet,
                 Manifest.permission.ACCESS_COARSE_LOCATION)
@@ -148,11 +147,11 @@ public class MyPointUtils extends Activity{
 
         }
         // END_INCLUDE(contacts_permission_request)
+
     }
 
     @Override
     public void onRequestPermissionsResult(int requestCode, String[] permissions,int[] grantResults) {
-        Log.i("aa","aaa");
         if (requestCode==REQUEST_CONTACTS){
             if (PermissionUtil.verifyPermissions(grantResults)) {
 
