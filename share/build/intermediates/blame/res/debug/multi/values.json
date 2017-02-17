@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\git space\\Roller-Skating\\share\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\android workspace\\studio\\Roller-Skating\\share\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 132
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 214
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,13 +49,13 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 114,
+                        "startOffset": 116,
                         "endColumn": 46,
-                        "endOffset": 156
+                        "endOffset": 158
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 308
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 161,
+                        "startOffset": 164,
                         "endColumn": 46,
-                        "endOffset": 203
+                        "endOffset": 206
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 355
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 208,
+                        "startOffset": 212,
                         "endColumn": 46,
-                        "endOffset": 250
+                        "endOffset": 254
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 255,
+                        "startOffset": 260,
                         "endColumn": 46,
-                        "endOffset": 297
+                        "endOffset": 302
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 302,
+                        "startOffset": 308,
                         "endColumn": 49,
-                        "endOffset": 347
+                        "endOffset": 353
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 510
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 57,
                         "endColumn": 57,
-                        "endOffset": 109
+                        "endOffset": 110
                     }
                 }
             },
@@ -163,7 +163,7 @@
                     "endOffset": 556
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 643
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 692
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 785
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 831
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 1,
@@ -258,7 +258,7 @@
                     "endOffset": 874
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -277,7 +277,7 @@
                     "endOffset": 923
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
@@ -296,7 +296,7 @@
                     "endOffset": 965
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -315,7 +315,7 @@
                     "endOffset": 1012
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
@@ -334,7 +334,7 @@
                     "endOffset": 1063
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 1,
@@ -353,7 +353,7 @@
                     "endOffset": 1133
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 1242
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1289
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 1,
@@ -410,7 +410,7 @@
                     "endOffset": 1344
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -429,7 +429,7 @@
                     "endOffset": 1447
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1499
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
@@ -467,7 +467,7 @@
                     "endOffset": 1552
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 1,
@@ -486,7 +486,7 @@
                     "endOffset": 1656
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1740
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 1,
@@ -525,14 +525,14 @@
                     "endOffset": 3625
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_instapaper_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_instapaper_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endLine": 68,
                         "endColumn": 12,
-                        "endOffset": 1870
+                        "endOffset": 1938
                     }
                 }
             },
@@ -545,7 +545,7 @@
                     "endOffset": 3680
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 1,
@@ -564,7 +564,7 @@
                     "endOffset": 3733
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 1,
@@ -583,7 +583,7 @@
                     "endOffset": 3786
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 1,
@@ -602,7 +602,7 @@
                     "endOffset": 3844
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 1,
@@ -621,7 +621,7 @@
                     "endOffset": 3895
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 1,
@@ -640,7 +640,7 @@
                     "endOffset": 3939
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 1,
@@ -659,7 +659,7 @@
                     "endOffset": 3994
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 1,
@@ -678,7 +678,7 @@
                     "endOffset": 4099
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 4152
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 1,
@@ -716,7 +716,7 @@
                     "endOffset": 4254
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 4298
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 4384
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -773,7 +773,7 @@
                     "endOffset": 4437
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 4480
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 1,
@@ -811,7 +811,7 @@
                     "endOffset": 4567
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -830,7 +830,7 @@
                     "endOffset": 4612
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
@@ -849,7 +849,7 @@
                     "endOffset": 4656
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 1,
@@ -868,7 +868,7 @@
                     "endOffset": 4716
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 1,
@@ -887,7 +887,7 @@
                     "endOffset": 4771
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 1,
@@ -906,7 +906,7 @@
                     "endOffset": 4818
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -925,7 +925,7 @@
                     "endOffset": 4866
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -944,7 +944,7 @@
                     "endOffset": 4916
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -963,7 +963,7 @@
                     "endOffset": 4970
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -982,7 +982,7 @@
                     "endOffset": 5028
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1001,7 +1001,7 @@
                     "endOffset": 5081
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -1020,7 +1020,7 @@
                     "endOffset": 5142
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -1039,7 +1039,7 @@
                     "endOffset": 5188
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1058,7 +1058,7 @@
                     "endOffset": 5246
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1077,7 +1077,7 @@
                     "endOffset": 5304
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1096,7 +1096,7 @@
                     "endOffset": 5359
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1115,7 +1115,7 @@
                     "endOffset": 5416
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_oks_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1134,7 +1134,7 @@
                     "endOffset": 5469
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
@@ -1153,7 +1153,7 @@
                     "endOffset": 5573
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1172,7 +1172,7 @@
                     "endOffset": 5620
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 1,
@@ -1191,7 +1191,7 @@
                     "endOffset": 5659
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 1,
@@ -1210,7 +1210,7 @@
                     "endOffset": 5743
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1229,7 +1229,7 @@
                     "endOffset": 5787
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
@@ -1248,7 +1248,7 @@
                     "endOffset": 5831
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -1267,7 +1267,7 @@
                     "endOffset": 5892
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 1,
@@ -1286,7 +1286,7 @@
                     "endOffset": 5948
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 1,
@@ -1305,7 +1305,7 @@
                     "endOffset": 5999
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 1,
@@ -1324,7 +1324,7 @@
                     "endOffset": 6055
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 1,
@@ -1343,7 +1343,7 @@
                     "endOffset": 6119
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 1,
@@ -1362,7 +1362,7 @@
                     "endOffset": 6168
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 1,
@@ -1381,7 +1381,7 @@
                     "endOffset": 6216
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 1,
@@ -1400,7 +1400,7 @@
                     "endOffset": 6268
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 1,
@@ -1419,7 +1419,7 @@
                     "endOffset": 6322
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 1,
@@ -1438,7 +1438,7 @@
                     "endOffset": 6373
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
@@ -1457,7 +1457,7 @@
                     "endOffset": 6420
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 1,
@@ -1476,7 +1476,7 @@
                     "endOffset": 6469
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
@@ -1495,7 +1495,7 @@
                     "endOffset": 6529
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 1,
@@ -1514,7 +1514,7 @@
                     "endOffset": 6575
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 1,
@@ -1533,7 +1533,7 @@
                     "endOffset": 6635
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1552,7 +1552,7 @@
                     "endOffset": 6680
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
@@ -1571,7 +1571,7 @@
                     "endOffset": 6767
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1590,7 +1590,7 @@
                     "endOffset": 6820
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 1,
@@ -1609,7 +1609,7 @@
                     "endOffset": 6873
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
@@ -1628,7 +1628,7 @@
                     "endOffset": 6933
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1647,7 +1647,7 @@
                     "endOffset": 6992
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1666,7 +1666,7 @@
                     "endOffset": 7043
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 1,
@@ -1685,7 +1685,7 @@
                     "endOffset": 7142
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1704,7 +1704,7 @@
                     "endOffset": 7184
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 1,
@@ -1723,7 +1723,7 @@
                     "endOffset": 7268
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1742,7 +1742,7 @@
                     "endOffset": 7320
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 1,
@@ -1761,7 +1761,7 @@
                     "endOffset": 7366
                 },
                 "from": {
-                    "file": "D:\\git space\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "file": "D:\\android workspace\\studio\\Roller-Skating\\share\\src\\main\\res\\values\\ssdk_strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 1,

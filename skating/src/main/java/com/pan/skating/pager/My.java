@@ -35,6 +35,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.datatype.BmobFile;
 import cn.bmob.v3.listener.UpdateListener;
@@ -43,10 +45,15 @@ import cn.bmob.v3.listener.UploadFileListener;
 public class My extends Fragment implements BaseInterface,View.OnClickListener{
     private static final int REQUESTCODE_CAMERA = 4;
     private View view;
-    private LinearLayout data;
-    private ImageView head;
+    @BindView(R.id.fm_my_data)
+    LinearLayout data;
+    @BindView(R.id.fm_my_head)
+    ImageView head;
     private AlertDialog.Builder builder;
-    private TextView username,describe;
+    @BindView(R.id.fm_my_username)
+    TextView username;
+    @BindView(R.id.fm_my_describe)
+    TextView describe;
     private String name,sign;
     private ImageLoader loader;
     private DisplayImageOptions options;
@@ -56,6 +63,7 @@ public class My extends Fragment implements BaseInterface,View.OnClickListener{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         view=inflater.inflate(R.layout.fragment_my, container, false);
+        ButterKnife.bind(this,view);
         initViews();
         initDatas();
         initOpers();
@@ -64,12 +72,8 @@ public class My extends Fragment implements BaseInterface,View.OnClickListener{
 
     @Override
     public void initViews() {
-        data= (LinearLayout) view.findViewById(R.id.fm_my_data);
         data.setOnClickListener(this);
-        head= (ImageView) view.findViewById(R.id.fm_my_head);
         head.setOnClickListener(this);
-        username= (TextView) view.findViewById(R.id.fm_my_username);
-        describe= (TextView) view.findViewById(R.id.fm_my_describe);
     }
 
     @Override
@@ -141,71 +145,76 @@ public class My extends Fragment implements BaseInterface,View.OnClickListener{
         switch (requestCode){
             //相机回掉
             case  REQUESTCODE_CAMERA:
-                Bundle extras = data.getExtras();
-                if (extras!= null) {
-                    Bitmap headBitmap =  (Bitmap) extras.get("data");
-                    /**
-                     *  1：压缩 大小控制在50k以内 2：写入本地 3：通过本地文件的File对象创建出一个BmobFile对象
-                     * 4.1：上传服务器 4.2：更改当前Ima的显示
-                     */
-                    // 1
-                    headBitmap = BitmapUtils.getBitmap100k(headBitmap, 50);
-                    File file = new File(Environment.getExternalStorageDirectory(),
-                            "gather");
-                    if (!file.exists()) {
-                        file.mkdirs();
-                    }
-                    File headFile = new File(file.getAbsolutePath()
-                            + "/head.jpg");
-                    if (headFile.exists()) {
-                        headFile.delete();
-                    }
-                    OutputStream out = null;
-                    try {
-                        out = new FileOutputStream(headFile);
-                    } catch (FileNotFoundException e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
-                    }
-                    // 2
-                    headBitmap.compress(Bitmap.CompressFormat.JPEG, 100, out);
-                    // 3
-                    final BmobFile headBmobFile = new BmobFile(headFile);
-                    // 4
-                    headBmobFile.uploadblock(getActivity(), new UploadFileListener() {
-
-                        //上传头像成功后更新用户表中的头像列
-                        @Override
-                        public void onSuccess() {
-
-                            final User user=new User();
-                            user.setHead(headBmobFile);
-                            BmobUser bmobUser = BmobUser.getCurrentUser(getActivity());
-                            user.update(getActivity(), bmobUser.getObjectId(), new UpdateListener() {
-                                @Override
-                                public void onSuccess() {
-                                    System.out.println("上传bomb头像成功：");
-                                    Toast.makeText(getActivity(), "上传头像成功", Toast.LENGTH_SHORT).show();
-                                }
-
-                                @Override
-                                public void onFailure(int i, String s) {
-                                    System.out.println("更新头像失败"+s);
-                                    Toast.makeText(getActivity(), "上传头像失败", Toast.LENGTH_SHORT).show();
-                                }
-                            });
+                if(data!=null) {
+                    Bundle extras = data.getExtras();
+                    if (extras != null) {
+                        Bitmap headBitmap = (Bitmap) extras.get("data");
+                        /**
+                         *  1：压缩 大小控制在50k以内 2：写入本地 3：通过本地文件的File对象创建出一个BmobFile对象
+                         * 4.1：上传服务器 4.2：更改当前Ima的显示
+                         */
+                        // 1
+                        headBitmap = BitmapUtils.getBitmap100k(headBitmap, 50);
+                        File file = new File(Environment.getExternalStorageDirectory(),
+                                "gather");
+                        if (!file.exists()) {
+                            file.mkdirs();
                         }
-                        @Override
-                        public void onFailure(int i, String s) {
-
+                        File headFile = new File(file.getAbsolutePath()
+                                + "/head.jpg");
+                        if (headFile.exists()) {
+                            headFile.delete();
                         }
-                    });
-                    head.setImageBitmap(headBitmap);
+                        OutputStream out = null;
+                        try {
+                            out = new FileOutputStream(headFile);
+                        } catch (FileNotFoundException e) {
+                            // TODO Auto-generated catch block
+                            e.printStackTrace();
+                        }
+                        // 2
+                        headBitmap.compress(Bitmap.CompressFormat.JPEG, 100, out);
+                        // 3
+                        final BmobFile headBmobFile = new BmobFile(headFile);
+                        // 4
+                        headBmobFile.uploadblock(getActivity(), new UploadFileListener() {
 
+                            //上传头像成功后更新用户表中的头像列
+                            @Override
+                            public void onSuccess() {
+
+                                final User user = new User();
+                                user.setHead(headBmobFile);
+                                BmobUser bmobUser = BmobUser.getCurrentUser(getActivity());
+                                user.update(getActivity(), bmobUser.getObjectId(), new UpdateListener() {
+                                    @Override
+                                    public void onSuccess() {
+                                        System.out.println("上传bomb头像成功：");
+                                        Toast.makeText(getActivity(), "上传头像成功", Toast.LENGTH_SHORT).show();
+                                    }
+
+                                    @Override
+                                    public void onFailure(int i, String s) {
+                                        System.out.println("更新头像失败" + s);
+                                        Toast.makeText(getActivity(), "上传头像失败", Toast.LENGTH_SHORT).show();
+                                    }
+                                });
+                            }
+
+                            @Override
+                            public void onFailure(int i, String s) {
+
+                            }
+                        });
+                        head.setImageBitmap(headBitmap);
+
+                    }
                 }
                 break;
             case 0:
-                resizeImage(data.getData());
+                if(data!=null){
+                    resizeImage(data.getData());
+                }
                 break;
 
             case 1:

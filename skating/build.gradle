@@ -9,13 +9,18 @@ android {
         minSdkVersion 19
         targetSdkVersion 22
         versionCode 1
-        versionName "1.1"
+        versionName "1.2"
         multiDexEnabled true
         useLibrary 'org.apache.http.legacy'
 
         ndk {
             abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
         }
+
+        manifestPlaceholders = [JPUSH_PKGNAME : applicationId,
+                                JPUSH_APPKEY : "339dea24ca64cbcc60b3c00e", //JPush上注册的包名对应的appkey.
+                                JPUSH_CHANNEL : "developer-default", //暂时填写默认值即可.
+                                ]
 
     }
 
@@ -61,4 +66,6 @@ dependencies {
     compile files('libs/classes.jar')
     compile 'com.jakewharton:butterknife:8.4.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+    compile 'cn.jiguang.sdk:jpush:3.0.0'
+    compile 'cn.jiguang.sdk:jcore:1.0.0'
 }

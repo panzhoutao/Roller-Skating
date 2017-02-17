@@ -8,6 +8,7 @@ import com.pan.skating.bean.PointBean;
 import com.pan.skating.bean.User;
 
 import cn.bmob.v3.Bmob;
+import cn.jpush.android.api.JPushInterface;
 import cn.sharesdk.framework.ShareSDK;
 import cn.smssdk.SMSSDK;
 
@@ -28,11 +29,10 @@ public class BaseApplication extends Application {
         this.act = act;
     }
 
-
-
     @Override
     public void onCreate() {
         super.onCreate();
+        JPushInterface.init(this);
         Bmob.initialize(this, "4d97166cbd99fd6933adc319e3ac4a72");
         SMSSDK.initSDK(this, "13cce17d466fb", "61788f3c4b020ceaf6003a378d300286");
         ShareSDK.initSDK(this,"1792353a03520");
